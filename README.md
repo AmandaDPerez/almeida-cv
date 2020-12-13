@@ -17,7 +17,7 @@ For better formatting, you can set the number of pages in the `config.toml` file
 
 
 # Download 
-Clone the repo: `git clone https://github.com/ineesalmeida/almeida-cv`
+Clone the repoc: `git clone https://github.com/ineesalmeida/almeida-cv`
 
 # Installation
 ## Install Hugo
